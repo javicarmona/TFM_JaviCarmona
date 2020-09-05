@@ -44,7 +44,6 @@ What are you going to find on the Dahsboard?
 
 - **Updated date.** Every time the code runs the date is updated.  
 
-![](http://digitalworldtrends.com/Data_Studio/Images/009.jpg)
 - **Quick insights,** because it is very interesting to understand how big is the data from WPP. 
 
 ![](http://digitalworldtrends.com/Data_Studio/Images/001.jpg)
